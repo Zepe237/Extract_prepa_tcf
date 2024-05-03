@@ -1,0 +1,469 @@
+[{
+    "id": 0,
+    "title": "",
+    "proposition": {
+        "p1": "Il a perdu ses papiers",
+        "p2": "Il a trop de travail",
+        "p3": "Il est tr\u00e8s malade",
+        "p4": "Il part en vacances"
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 1,
+    "title": "",
+    "proposition": {
+        "p1": "L\u2019escalier",
+        "p2": "La station de m\u00e9tro",
+        "p3": "Les ascenseurs",
+        "p4": "Les guichets"
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 2,
+    "title": "",
+    "proposition": {
+        "p1": "D\u2019\u00e9couter une histoire",
+        "p2": "De faire des g\u00e2teaux",
+        "p3": "De jouer aux cartes",
+        "p4": "De regarder un film"
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 3,
+    "title": "",
+    "proposition": {
+        "p1": "Dans un caf\u00e9",
+        "p2": "Dans un cin\u00e9ma",
+        "p3": "Dans une boutique",
+        "p4": "Dans une entreprise"
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 4,
+    "title": "",
+    "proposition": {
+        "p1": "Avec Mme Deor",
+        "p2": "Avec un chauffeur",
+        "p3": "En autobus",
+        "p4": "En taxi"
+    },
+    "point": "9",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 5,
+    "title": "",
+    "proposition": {
+        "p1": "Ils vont bient\u00f4t d\u00e9m\u00e9nager",
+        "p2": "Ils vont faire des travaux",
+        "p3": "Ils vont organiser une soir\u00e9e",
+        "p4": "Ils vont recevoir de la visite"
+    },
+    "point": "9",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 6,
+    "title": "",
+    "proposition": {
+        "p1": "Pour acheter un cadeau avec elle",
+        "p2": "Pour annuler sa venue \u00e0 une f\u00eate",
+        "p3": "Pour d\u00e9cider d\u2019un rendez-vous",
+        "p4": "Pour inviter son amie \u00e0 diner"
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 7,
+    "title": "",
+    "proposition": {
+        "p1": "Une formation adapt\u00e9e pendant les vacances",
+        "p2": "Une grande vari\u00e9t\u00e9 de cours intensifs",
+        "p3": "Une promotion sp\u00e9ciale pour un voyage",
+        "p4": "Une r\u00e9duction sur des stages pendant l\u2019\u00e9t\u00e9"
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 8,
+    "title": "",
+    "proposition": {
+        "p1": "Des visites de mus\u00e9es",
+        "p2": "Des voyages en Europe",
+        "p3": "Un mois de vacances",
+        "p4": "Un semestre d\u2019\u00e9tudes"
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 9,
+    "title": "",
+    "proposition": {
+        "p1": "Aux \u00e9l\u00e8ves",
+        "p2": "Aux \u00e9tudiants",
+        "p3": "Aux parents",
+        "p4": "Aux professeurs"
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 10,
+    "title": "",
+    "proposition": {
+        "p1": "Aller chercher Anne",
+        "p2": "Faire des courses",
+        "p3": "Pr\u00e9parer le repas",
+        "p4": "Se coucher t\u00f4t"
+    },
+    "point": "15",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 11,
+    "title": "",
+    "proposition": {
+        "p1": "Pour accueillir des \u00e9l\u00e8ves",
+        "p2": "Pour favoriser une autre p\u00e9dagogie",
+        "p3": "Pour limiter les probl\u00e8mes de sant\u00e9",
+        "p4": "Pour r\u00e9nover les salles de classe"
+    },
+    "point": "15",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 12,
+    "title": "",
+    "proposition": {
+        "p1": "Leur couleur",
+        "p2": "Leur forme",
+        "p3": "Leur prix",
+        "p4": "Leur taille"
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 13,
+    "title": "",
+    "proposition": {
+        "p1": "Ils t\u00e9l\u00e9chargent des jeux sur leur poste",
+        "p2": "Ils trouvent difficilement des informations",
+        "p3": "Leur rendement au travail diminue",
+        "p4": "Leurs \u00e9changes perdent en efficacit\u00e9"
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 14,
+    "title": "",
+    "proposition": {
+        "p1": "Ils l\u2019utilisent plus que les adultes",
+        "p2": "Ils manquent de formation pratique",
+        "p3": "Ils s\u2019en servent avec prudence",
+        "p4": "Ils se connectent en toute libert\u00e9"
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 15,
+    "title": "",
+    "proposition": {
+        "p1": "De diffuser de la musique",
+        "p2": "De r\u00e9utiliser des objets",
+        "p3": "De s\u2019engager en politique",
+        "p4": "De tourner des publicit\u00e9s"
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 16,
+    "title": "",
+    "proposition": {
+        "p1": "Ils b\u00e9n\u00e9ficient d\u2019un meilleur service apr\u00e8s-vente",
+        "p2": "Ils obtiennent des conseils sur le mode d\u2019emploi",
+        "p3": "Ils ont acc\u00e8s imm\u00e9diatement aux nouveaux mod\u00e8les",
+        "p4": "Ils ont la possibilit\u00e9 d\u2019essayer les appareils"
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 17,
+    "title": "",
+    "proposition": {
+        "p1": "Les \u00e9changes en famille s\u2019am\u00e9liorent",
+        "p2": "L\u2019attention en classe est en hausse",
+        "p3": "Les adolescents sont plus en forme",
+        "p4": "La r\u00e9ussite aux examens augmente"
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 18,
+    "title": "",
+    "proposition": {
+        "p1": "Il encourage les initiatives",
+        "p2": "Il favorise le rendement au travail",
+        "p3": "Il permet d\u2019\u00eatre plus d\u00e9tendu",
+        "p4": "Il rend les gens plus cultiv\u00e9s"
+    },
+    "point": "15",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 19,
+    "title": "",
+    "proposition": {
+        "p1": "En achetant les billets \u00e0 l\u2019avance",
+        "p2": "En choisissant des places pour quatre matchs",
+        "p3": "En prenant des billets pour un groupe",
+        "p4": "En pr\u00e9sentant une carte de club de sport"
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 20,
+    "title": "",
+    "proposition": {
+        "p1": "La priorit\u00e9 donn\u00e9e \u00e0 l\u2019aspect \u00e9cologique",
+        "p2": "La prise en compte de l\u2019opinion publique",
+        "p3": "Le caract\u00e8re provisoire de l\u2019installation",
+        "p4": "Le choix des mat\u00e9riaux fabrication"
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 21,
+    "title": "",
+    "proposition": {
+        "p1": "L\u2019attirance pour les \u00e9tudes",
+        "p2": "L\u2019appel des pays chauds",
+        "p3": "Le besoin d\u2019interaction sociale",
+        "p4": "Le d\u00e9sir de reconnaissance"
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 22,
+    "title": "",
+    "proposition": {
+        "p1": "D\u2019\u00e9largir leurs perspectives professionnelles",
+        "p2": "D\u2019\u00e9valuer les possibilit\u00e9s d\u2019\u00e9volution de leur carri\u00e8re",
+        "p3": "De faire un bilan de leurs aptitudes",
+        "p4": "De privil\u00e9gier leur \u00e9panouissement personnel"
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 23,
+    "title": "",
+    "proposition": {
+        "p1": "Il devient la solution id\u00e9ale des voyages organis\u00e9s \u00e0 la derni\u00e8re minute",
+        "p2": "Il est accessible \u00e0 un nombre croissant d\u2019utilisateurs gr\u00e2ce \u00e0 internet",
+        "p3": "Il occupe une place grandissante dans les petites annonces des journaux",
+        "p4": "Il s\u2019impose comme le moyen de d\u00e9placement \u00e0 la mode chez les jeunes"
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 24,
+    "title": "",
+    "proposition": {
+        "p1": "La lutte pour le maintien du niveau des salaires",
+        "p2": "La volont\u00e9 de d\u00e9m\u00e9nager \u00e0 l\u2019\u00e2ge adulte",
+        "p3": "L\u2019attachement aux valeurs de l\u2019entreprise",
+        "p4": "Le d\u00e9sir d\u2019\u00e9volution durant la vie active"
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 25,
+    "title": "",
+    "proposition": {
+        "p1": "Ils ont une bonne situation financi\u00e8re",
+        "p2": "Ils pratiquent des loisirs en ext\u00e9rieur",
+        "p3": "Ils se pr\u00e9occupent de l\u2019environnement",
+        "p4": "Ils se rendent r\u00e9guli\u00e8rement en ville"
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 26,
+    "title": "",
+    "proposition": {
+        "p1": "Elle appauvrit le lexique courant",
+        "p2": "Elle modifie le rapport au temps",
+        "p3": "Elle provoque la fin du courrier postal",
+        "p4": "Elle transforme le geste graphique"
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 27,
+    "title": "",
+    "proposition": {
+        "p1": "L\u2019affection qu\u2019elle portait \u00e0 ses admirateurs",
+        "p2": "L\u2019originalit\u00e9 qui caract\u00e9risait le choix de ses r\u00f4les",
+        "p3": "La g\u00e9n\u00e9rosit\u00e9 qu\u2019elle manifestait dans sa vie",
+        "p4": "La s\u00e9duction qui \u00e9tait son principal atout"
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 28,
+    "title": "",
+    "proposition": {
+        "p1": "\u00c0 concurrencer la liste des hauts lieux dress\u00e9e par l\u2019UNESCO",
+        "p2": "\u00c0 d\u00e9finir les crit\u00e8res esth\u00e9tiques de l\u2019architecture europ\u00e9enne",
+        "p3": "\u00c0 favoriser l\u2019\u00e9mergence de valeurs culturelles collectives",
+        "p4": "\u00c0 r\u00e9fl\u00e9chir sur la place du tourisme et de l\u2019\u00e9conomie en Europe"
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 29,
+    "title": "",
+    "proposition": {
+        "p1": "Demande \u00e0 une cliente de payer l\u2019int\u00e9gralit\u00e9 de sa commande",
+        "p2": "Pr\u00e9venir une cliente que sa commande sera livr\u00e9e en retard",
+        "p3": "Confirmer \u00e0 une cliente que sa commande a bien \u00e9t\u00e9 exp\u00e9di\u00e9e",
+        "p4": "Pr\u00e9venir un client qu\u2019elle devra payer 20 euros de frais d\u2019envoi"
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 30,
+    "title": "",
+    "proposition": {
+        "p1": "Des blogueurs professionnels",
+        "p2": "Des \u00e9tudiants climatologie",
+        "p3": "Des guides de montagne",
+        "p4": "Des passionn\u00e9s de randonn\u00e9e"
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 31,
+    "title": "",
+    "proposition": {
+        "p1": "Il appr\u00e9ciait de lire les r\u00e9cits d\u2019\u00e9crivains de sa g\u00e9n\u00e9ration",
+        "p2": "Il \u00e9tait d\u00e9j\u00e0, en son temps, un artiste reconnu par ses pairs",
+        "p3": "Il se plaisait \u00e0 v\u00e9hiculer une fausse image de lui-m\u00eame",
+        "p4": "Il souffrait beaucoup \u00e0 cause de son \u00e9tat mental fragile"
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 32,
+    "title": "",
+    "proposition": {
+        "p1": "C\u2019est un indice de savoir-vivre",
+        "p2": "C\u2019est un marqueur social",
+        "p3": "C\u2019est un signe de respect",
+        "p4": "C\u2019est une preuve d\u2019\u00e9ducation"
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 33,
+    "title": "",
+    "proposition": {
+        "p1": "L\u2019absence du p\u00e8re oblige les m\u00e8res \u00e0 mettre leur vie affective entre parenth\u00e8ses",
+        "p2": "La soci\u00e9t\u00e9 actuelle accepte mal qu\u2019un enfant \u00e9lev\u00e9 uniquement par son p\u00e8re",
+        "p3": "Les p\u00e8res consid\u00e8rent que l\u2019absence de la m\u00e8re doit \u00eatre absolument compens\u00e9e",
+        "p4": "Les p\u00e8res seuls reconstruisent vite une vie de couple apr\u00e8s une s\u00e9paration"
+    },
+    "point": "26",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 34,
+    "title": "",
+    "proposition": {
+        "p1": "L\u2019\u00e9criture requiert les m\u00eames qualit\u00e9s pour une fiction ou un essai",
+        "p2": "Le raisonnement du penseur repr\u00e9sente une entrave \u00e0 la cr\u00e9ation",
+        "p3": "Les grands romans sont issus des r\u00e9flexions th\u00e9oriques d\u2019un auteur",
+        "p4": "Les modes d\u2019\u00e9criture du romancier et de l\u2019intellectuel sont identiques"
+    },
+    "point": "26",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 35,
+    "title": "",
+    "proposition": {
+        "p1": "Il revit des souvenirs lointains dans le bureau de la maison familiale",
+        "p2": "Il se rappelle une pi\u00e8ce de travail poussi\u00e9reuse interdit aux enfants",
+        "p3": "Il raconte son apprentissage de la lecture aupr\u00e8s de son grand-p\u00e8re",
+        "p4": "Il \u00e9voque ses rentr\u00e9es scolaires alors qu\u2019il ne savait pas encore lire"
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 36,
+    "title": "",
+    "proposition": {
+        "p1": "\u00c0 s\u2019acquitter d\u2019un engagement moral",
+        "p2": "\u00c0 s\u2019affranchir d\u2019une histoire ancienne",
+        "p3": "\u00c0 se d\u00e9faire d\u2019un sentiment de culpabilit\u00e9",
+        "p4": "\u00c0 se justifier d\u2019une action peu glorieuse"
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 37,
+    "title": "",
+    "proposition": {
+        "p1": "Contribue \u00e0 am\u00e9liorer les m\u00e9thodes d\u2019apprentissage",
+        "p2": "Il est indispensable pour acc\u00e9der au monde professionnel",
+        "p3": "Il permet de certifier les comp\u00e9tences r\u00e9elles d\u2019un candidat",
+        "p4": "Il perturbe le processus d\u2019acquisition des connaissances"
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 38,
+    "title": "",
+    "proposition": {
+        "p1": "Pour d\u00e9couvrir de nouvelles r\u00e9f\u00e9rences",
+        "p2": "Pour poss\u00e9der une biblioth\u00e8que fournie",
+        "p3": "Pour s\u2019\u00e9vader vers des horizons lointains",
+        "p4": "Pour trouver des rem\u00e8des \u00e0 ses maux"
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+}]

@@ -1,0 +1,469 @@
+[{
+    "id": 0,
+    "title": "",
+    "proposition": {
+        "p1": "Un dessert.",
+        "p2": "Une entr\u00e9e.",
+        "p3": "Une salade.",
+        "p4": "Une soupe."
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 1,
+    "title": "",
+    "proposition": {
+        "p1": "Des cours particuliers.",
+        "p2": "Des jobs pendant le week-end.",
+        "p3": "Des rencontres entre jeunes.",
+        "p4": "Des voyages \u00e0 l\u2019\u00e9tranger."
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 2,
+    "title": "",
+    "proposition": {
+        "p1": "Des cours gratuits.",
+        "p2": "Des postes \u00e0 l\u2019\u00e9tranger.",
+        "p3": "Des stages en Italie.",
+        "p4": "Des voyages en Europe."
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 3,
+    "title": "",
+    "proposition": {
+        "p1": "Avoir un b\u00e9b\u00e9.",
+        "p2": "D\u00e9m\u00e9nager en France.",
+        "p3": "Jouer au cin\u00e9ma.",
+        "p4": "Organiser une exposition."
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 4,
+    "title": "",
+    "proposition": {
+        "p1": "Aller \u00e0 un anniversaire.",
+        "p2": "D\u00eener avec son amie.",
+        "p3": "Partir en week-end.",
+        "p4": "Regarder des films."
+    },
+    "point": "9",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 5,
+    "title": "",
+    "proposition": {
+        "p1": "De pr\u00e9parer un voyage.",
+        "p2": "De regarder un spectacle.",
+        "p3": "De venir \u00e0 une r\u00e9union.",
+        "p4": "De visiter une classe."
+    },
+    "point": "9",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 6,
+    "title": "",
+    "proposition": {
+        "p1": "Beaux.",
+        "p2": "Calmes.",
+        "p3": "Courageux.",
+        "p4": "Joyeux."
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 7,
+    "title": "",
+    "proposition": {
+        "p1": "Un salon des entrepreneurs",
+        "p2": "Une comp\u00e9tition sportive",
+        "p3": "Une conf\u00e9rence sur le ch\u00f4mage",
+        "p4": "Une manifestation sociale."
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 8,
+    "title": "",
+    "proposition": {
+        "p1": "D\u2019acheter des plantes \u00e0 bon prix.",
+        "p2": "De faire des courses en ligne.",
+        "p3": "De participer \u00e0 un concours.",
+        "p4": "De recevoir des outils gratuits."
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 9,
+    "title": "",
+    "proposition": {
+        "p1": "Participer \u00e0 un stage de plusieurs jours.",
+        "p2": "S\u2019informer sur le monde professionnel.",
+        "p3": "S\u2019inscrire \u00e0 un cours r\u00e9serv\u00e9 aux jeunes.",
+        "p4": "Trouver de l\u2019aide pour \u00e9crire un CV."
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 10,
+    "title": "",
+    "proposition": {
+        "p1": "Acheter des articles de bureau.",
+        "p2": "Commander une imprimante.",
+        "p3": "Demander de l\u2019encre et du papier.",
+        "p4": "Lister leurs besoins de mat\u00e9riel."
+    },
+    "point": "15",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 11,
+    "title": "",
+    "proposition": {
+        "p1": "Ils ont \u00e9t\u00e9 invit\u00e9s \u00e0 une f\u00eate en ville",
+        "p2": "Ils ont eu une coupure d\u2019Internet.",
+        "p3": "Ils ont fait le plein \u00e0 tr\u00e8s bas prix.",
+        "p4": "Ils ont pu t\u00e9l\u00e9phoner gratuitement."
+    },
+    "point": "15",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 12,
+    "title": "",
+    "proposition": {
+        "p1": "Pour \u00e9viter de tomber malades.",
+        "p2": "Pour profiter de tarifs avantageux.",
+        "p3": "Pour prot\u00e9ger l\u2019environnement.",
+        "p4": "Pour soutenir les paysans locaux."
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 13,
+    "title": "",
+    "proposition": {
+        "p1": "Demander des informations sur des produits.",
+        "p2": "Passer une commande de produits.",
+        "p3": "Pr\u00e9senter de nouveaux produits.",
+        "p4": "Proposer une d\u00e9gustation de produit."
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 14,
+    "title": "",
+    "proposition": {
+        "p1": "Aller dans un bar.",
+        "p2": "Assister \u00e0 un spectacle.",
+        "p3": "D\u00eener au restaurant.",
+        "p4": "Voir une pi\u00e8ce de th\u00e9\u00e2tre."
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 15,
+    "title": "",
+    "proposition": {
+        "p1": "De d\u00e9velopper des projets collectifs pour la ville.",
+        "p2": "De donner un avis sur les nouveaux b\u00e2timents.",
+        "p3": "De participer \u00e0 des d\u00e9bats sur l\u2019environnement.",
+        "p4": "De visiter des expositions dans des lieux insolites."
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 16,
+    "title": "",
+    "proposition": {
+        "p1": "Baisser les salaires.",
+        "p2": "Cr\u00e9er des emplois.",
+        "p3": "Diviser le travail.",
+        "p4": "Favoriser la recherche."
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 17,
+    "title": "",
+    "proposition": {
+        "p1": "Il encourage les initiatives.",
+        "p2": "Il favorise le rendement au travail.",
+        "p3": "Il permet d\u2019\u00eatre plus d\u00e9tendu.",
+        "p4": "Il rend les gens plus cultiv\u00e9s."
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 18,
+    "title": "",
+    "proposition": {
+        "p1": "C\u2019est un succ\u00e8s.",
+        "p2": "Elle changera de lieu.",
+        "p3": "Elle est d\u00e9j\u00e0 finie.",
+        "p4": "L\u2019entr\u00e9e est gratuite."
+    },
+    "point": "15",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 19,
+    "title": "",
+    "proposition": {
+        "p1": "Il cite un extrait d\u2019une \u0153uvre de Modiano.",
+        "p2": "Il explique l\u2019id\u00e9e de d\u00e9part d\u2019un livre de Modiano.",
+        "p3": "Il pr\u00e9sente le m\u00e9tier de Modiano \u00e0 ses d\u00e9buts.",
+        "p4": "Il raconte la rencontre entre Modiano et sa femme."
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 20,
+    "title": "",
+    "proposition": {
+        "p1": "La priorit\u00e9 donn\u00e9e \u00e0 l\u2019aspect \u00e9cologique.",
+        "p2": "La prise en compte de l\u2019opinion publique.",
+        "p3": "Le caract\u00e8re provisoire de l\u2019installation.",
+        "p4": "Le choix des mat\u00e9riaux de fabrication."
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 21,
+    "title": "",
+    "proposition": {
+        "p1": "Ils \u00e9loignent les jeunes du monde des adultes.",
+        "p2": "Ils entra\u00eenent des comportements de type addictif.",
+        "p3": "Ils ont tendance \u00e0 couper les adolescents du r\u00e9el.",
+        "p4": "Ils peuvent \u00eatre utilis\u00e9s comme outils de contr\u00f4le."
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 22,
+    "title": "",
+    "proposition": {
+        "p1": "D\u2019\u00e9largir leurs perspectives professionnelles.",
+        "p2": "D\u2019\u00e9valuer les possibilit\u00e9s d\u2019\u00e9volution de leur carri\u00e8re.",
+        "p3": "De faire un bilan de leurs aptitudes.",
+        "p4": "De privil\u00e9gier leur \u00e9panouissement personnel."
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 23,
+    "title": "",
+    "proposition": {
+        "p1": "Ils \u00e9laborent de nouvelles techniques.",
+        "p2": "Ils emploient des proc\u00e9d\u00e9s traditionnels.",
+        "p3": "Ils int\u00e8grent l\u2019ancien \u00e0 leurs constructions.",
+        "p4": "Ils restaurent \u00e0 l\u2019identique de vieux \u00e9difices."
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 24,
+    "title": "",
+    "proposition": {
+        "p1": "Les courses repr\u00e9sentent pour les m\u00e9nages un budget en augmentation.",
+        "p2": "Les grandes surfaces provoquent la fin des petites boutiques de quartier.",
+        "p3": "Les prix pratiqu\u00e9s par la grande distribution d\u00e9fient toute concurrence.",
+        "p4": "Les relations de voisinage deviennent anonymes et d\u00e9nu\u00e9es de politesse."
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 25,
+    "title": "",
+    "proposition": {
+        "p1": "De l\u2019\u00e9ducation des plus jeunes.",
+        "p2": "De la transmission d\u2019un savoir-faire.",
+        "p3": "De la volant\u00e9 d\u2019\u00e9mancipation.",
+        "p4": "Du rapport entre les g\u00e9n\u00e9rations."
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 26,
+    "title": "",
+    "proposition": {
+        "p1": "Il d\u00e9conseille au grand public de les adopter.",
+        "p2": "Il estime qu\u2019elles sont insuffisamment promues.",
+        "p3": "Il remet en question leurs retomb\u00e9es positives.",
+        "p4": "Il r\u00e9v\u00e8le qu\u2019elles contribuent au d\u00e9clin industriel."
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 27,
+    "title": "",
+    "proposition": {
+        "p1": "La constitution d\u2019une culture nationale.",
+        "p2": "La stimulation de la croissance \u00e9conomique.",
+        "p3": "L\u2019am\u00e9lioration des comportements sanitaires.",
+        "p4": "Le d\u00e9veloppement d\u2019une conscience civique."
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 28,
+    "title": "",
+    "proposition": {
+        "p1": "Faire \u00e9voluer les mentalit\u00e9s au sujet du handicap au travail.",
+        "p2": "Permettre de modifier la l\u00e9gislation sur le handicap au travail.",
+        "p3": "Recenser les discriminations dont sont victimes les handicap\u00e9s.",
+        "p4": "Subventionner les entreprises qui recrutent des handicap\u00e9s."
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 29,
+    "title": "",
+    "proposition": {
+        "p1": "Ce sont les violons r\u00e9cents qui sont les plus estim\u00e9s.",
+        "p2": "Il est difficile de ma\u00eetriser les violons anciens.",
+        "p3": "La qualit\u00e9 des violons \u00e9volue avec le temps.",
+        "p4": "Voir le violon modifier l\u2019appr\u00e9ciation de l\u2019auditeur."
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 30,
+    "title": "",
+    "proposition": {
+        "p1": "La multiplication des nuisances sonores sur la commune.",
+        "p2": "L\u2019accroissement du taux de ch\u00f4mage de ses administr\u00e9s.",
+        "p3": "L\u2019agrandissement de l\u2019espace consacr\u00e9 aux spectacles",
+        "p4": "L\u2019augmentation du prix des entr\u00e9es pour les spectateurs."
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 31,
+    "title": "",
+    "proposition": {
+        "p1": "Ils apprennent \u00e0 \u00eatre patients.",
+        "p2": "Ils \u00e9voluent selon l\u2019anciennet\u00e9.",
+        "p3": "Ils saisissent toutes les occasions.",
+        "p4": "Ils t\u00e2chent de conserver leur emploi."
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 32,
+    "title": "",
+    "proposition": {
+        "p1": "Des m\u00e9thodes innovantes sur l\u2019usage des TIC.",
+        "p2": "Des pistes de recherche sur l\u2019apprentissage.",
+        "p3": "Un \u00e9tat des lieux des ressources p\u00e9dagogiques.",
+        "p4": "Une analyse du contexte socio-\u00e9ducatif actuel."
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 33,
+    "title": "",
+    "proposition": {
+        "p1": "Sa structure est identique chez l\u2019homme et l\u2019animal.",
+        "p2": "Sa taille influe sur les comp\u00e9tences cognitives.",
+        "p3": "Son d\u00e9veloppement est ralenti les premiers mois.",
+        "p4": "Son fonctionnement est encore myst\u00e9rieux."
+    },
+    "point": "26",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 34,
+    "title": "",
+    "proposition": {
+        "p1": "Aborder des \u0153uvres r\u00e9put\u00e9es difficiles avec leurs \u00e9l\u00e8ves.",
+        "p2": "Encourager leurs \u00e9l\u00e8ves \u00e0 \u00e9crire des textes litt\u00e9raires.",
+        "p3": "Inviter r\u00e9guli\u00e8rement des \u00e9crivains c\u00e9l\u00e8bres dans leur classe.",
+        "p4": "Monter des pi\u00e8ces de th\u00e9\u00e2tre d\u2019auteurs classiques."
+    },
+    "point": "26",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 35,
+    "title": "",
+    "proposition": {
+        "p1": "Elle a \u00e9t\u00e9 adapt\u00e9e pour la t\u00e9l\u00e9vision.",
+        "p2": "Elle s\u2019inspire de la vie des jeunes.",
+        "p3": "La cl\u00e9 de l\u2019\u00e9nigme sera \u00e9dit\u00e9e plus tard.",
+        "p4": "L\u2019auteur a imagin\u00e9 diff\u00e9rents scenarios."
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 36,
+    "title": "",
+    "proposition": {
+        "p1": "Le co\u00fbt social \u00e9lev\u00e9 de prise en charge des maladies g\u00e9n\u00e9tiques.",
+        "p2": "Le d\u00e9veloppement de traitements curatifs de pathologies g\u00e9n\u00e9tiques.",
+        "p3": "Le mode de financement de la recherche g\u00e9n\u00e9tique fondamentale.",
+        "p4": "Les d\u00e9rives induites par l\u2019am\u00e9lioration du patrimoine g\u00e9n\u00e9tique."
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 37,
+    "title": "",
+    "proposition": {
+        "p1": "L\u2019alternance entre le comique et le drame.",
+        "p2": "L\u2019atmosph\u00e8re \u00e9nigmatique et inqui\u00e9tante.",
+        "p3": "La pr\u00e9sentation de particularit\u00e9s r\u00e9gionales.",
+        "p4": "L\u2019\u00e9mancipation des h\u00e9ros au cours du r\u00e9cit."
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 38,
+    "title": "",
+    "proposition": {
+        "p1": "Ils permettraient \u00e0 des adolescents de renouer avec elle.",
+        "p2": "Ils pourraient servir \u00e0 enseigner certaines disciplines.",
+        "p3": "Ils r\u00e9soudraient des probl\u00e8mes de violence en classe.",
+        "p4": "Ils seraient appropri\u00e9s pour se d\u00e9tendre lors des pauses."
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+}]

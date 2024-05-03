@@ -1,0 +1,1406 @@
+[
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "898",
+                    "data-type": "single"
+                },
+                "text": "A88Un appartementB88Un restaurantC88Un voyageD88Une voiture"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": "Que propose cette association\u00a0?"
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "899",
+                    "data-type": "single"
+                },
+                "text": "A88Des cours particuliersB88Des jobs pendant le Week-endC88Des rencontres entre jeunesD88Des voyages \u00e0 l\u2019\u00e9tranger"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "900",
+                    "data-type": "single"
+                },
+                "text": "A88Il va avoir de nouveaux horairesB88Il va changer de propri\u00e9taireC88Il va d\u00e9m\u00e9nager en septembreD88Il va fermer pendant l\u2019\u00e9t\u00e9"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "901",
+                    "data-type": "single"
+                },
+                "text": "A88Une naissanceB88Une expositionC88Un anniversaireD88Un mariage"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "902",
+                    "data-type": "single"
+                },
+                "text": "A88CanadienneB88EspagnoleC88ItalienneD88Mexicaine"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "903",
+                    "data-type": "single"
+                },
+                "text": "A88Au personnelB88Aux \u00e9tudiantsC88Aux parentsD88Aux professeurs"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "904",
+                    "data-type": "single"
+                },
+                "text": "A88En d\u00e9cembreB88En f\u00e9vrierC88En maiD88En mars"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "905",
+                    "data-type": "single"
+                },
+                "text": "A88Un court s\u00e9jour touristiqueB88Une le\u00e7on de cuisineC88Une participation \u00e0 un concoursD88Une r\u00e9duction pour le train"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "906",
+                    "data-type": "single"
+                },
+                "text": "A88L\u2019alimentationB88L\u2019\u00e9ducationC88La cuisineD88Le commerce"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "907",
+                    "data-type": "single"
+                },
+                "text": "A88Dans la journ\u00e9eB88Le lendemainC88Le soi-m\u00eameD88Vendredi matin"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "908",
+                    "data-type": "single"
+                },
+                "text": "A88Apprendre \u00e0 jouer d\u2019un instrument de musiqueB88Faire de la musique avec d\u2019autres personnesC88Organiser des concerts de musique gratuitsD88Rencontrer des professionnels de la musique"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "909",
+                    "data-type": "single"
+                },
+                "text": "A88Pour \u00e9viter de tomber maladesB88Pour profiter de tarifs avantageuxC88Pour prot\u00e9ger l\u2019environnementD88Pour soutenir les paysans locaux"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "910",
+                    "data-type": "single"
+                },
+                "text": "A88C\u2019est son mode de communication favoriB88Il a entam\u00e9 une formation de journalisteC88Il peut partager sa passion avec un publicD88Pour r\u00e9pondre aux attentes de son public"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "911",
+                    "data-type": "single"
+                },
+                "text": "A88Aider les couples en mal d\u2019enfantB88D\u00e9fendre les droits des enfantsC88Donner une famille aux enfantsD88Fournir un h\u00e9bergement aux enfants"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "912",
+                    "data-type": "single"
+                },
+                "text": "A88La mairie de Paris va essayer de s\u2019opposer aux livres \u00e9lectroniquesB88Les biblioth\u00e8ques risquent de fermer \u00e0 cause des livres \u00e9lectroniquesC88Les Fran\u00e7ais pr\u00e9f\u00e8rent les livres \u00e9lectroniques aux livres traditionnelsD88Les Parisiens peuvent acc\u00e9der facilement \u00e0 des livres \u00e9lectroniques"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "913",
+                    "data-type": "single"
+                },
+                "text": "A88Il a appris plusieurs langues avec des manuelsB88Il a enseign\u00e9 les langues anciennes au lyc\u00e9eC88Il est passionn\u00e9 d\u2019ouvrages sur les languesD88Il va publier dans une revue sur les langues"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "914",
+                    "data-type": "single"
+                },
+                "text": "A88Consulter sa boite de r\u00e9ception de courrielsB88\u00c9crire au responsable de la formation choisieC88S\u2019informer sur le site internet www.univ.frD88T\u00e9l\u00e9phoner au d\u00e9partement communication"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "915",
+                    "data-type": "single"
+                },
+                "text": "A88Aux familles qui ont des factures \u00e9lev\u00e9esB88Aux jeunes qui veulent vivre en colocationC88Aux locataires qui ont de faibles revenusD88Aux personnes qui ach\u00e8tent un logement"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "916",
+                    "data-type": "single"
+                },
+                "text": "A88Il cite un extrait d\u2019une \u0153uvre de ModianoB88Il explique l\u2019id\u00e9e de d\u00e9part d\u2019un livre de ModianoC88Il pr\u00e9sente le m\u00e9tier de Modiano \u00e0 ses d\u00e9butsD88Il raconte la rencontre entre Modiano et sa femme"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "917",
+                    "data-type": "single"
+                },
+                "text": "A88Am\u00e9liorer les capacit\u00e9s physiquesB88D\u00e9couvrir de nouveaux types de sportsC88D\u00e9velopper le cercle de ses relations socialesD88Maintenir les performances de la m\u00e9moire"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "918",
+                    "data-type": "single"
+                },
+                "text": "A88Annoncer la signature d\u2019un accord de coop\u00e9rationB88Communiquer une offre de stage de fin d\u2019\u00e9tudesC88Faire part de la r\u00e9ponse d\u2019un responsableD88Informer sur le profil d\u2019un poste disponible"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "919",
+                    "data-type": "single"
+                },
+                "text": "A88Il n\u00e9glige les commerces dans les rues pi\u00e9tonnesB88Il rend difficile l\u2019acc\u00e8s aux secteurs touristiquesC88Il r\u00e9pond peu aux besoins en pistes cyclables des habitantsD88Il risque d\u2019entraver la circulation des v\u00e9hicules de secours"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "920",
+                    "data-type": "single"
+                },
+                "text": "A88Ils \u00e9loignent les jeunes du monde des adultesB88Ils entra\u00eenent des comportements types addictifsC88Ils ont tendance \u00e0 couper les adolescents du r\u00e9elD88Ils peuvent \u00eatre utilis\u00e9s comme outils de contr\u00f4le"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "921",
+                    "data-type": "single"
+                },
+                "text": "A88Elle demande des connaissances techniques pouss\u00e9esB88Elle emp\u00eache les jeunes utilisateurs de se concentrerC88Elle masque les probl\u00e8mes p\u00e9dagogiques essentielsD88Elle sert sans succ\u00e8s d\u2019argument commercial"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "922",
+                    "data-type": "single"
+                },
+                "text": "A88Faire la promotion de l\u2019apprentissage d\u2019un m\u00e9tier aupr\u00e8s des jeunesB88Former les professeurs \u00e0 de nouvelles m\u00e9thodes d\u2019enseignementC88Pr\u00e9senter les opportunit\u00e9s de stage en entreprise dans la r\u00e9gionD88Proposer aux \u00e9tudiants des strat\u00e9gies de recherche d\u2019emploi"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "923",
+                    "data-type": "single"
+                },
+                "text": "A88Elles font partie de la gastronomie r\u00e9gionaleB88Les gens en mangent plus que par le pass\u00e9C88Les m\u00e9decins conseillent leur usage en cuisineD88Leur culture augmente rapidement sur les c\u00f4tes"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "924",
+                    "data-type": "single"
+                },
+                "text": "A88D\u2019un catalogue de stylisteB88D\u2019un dictionnaire philosophiqueC88D\u2019un manuel d\u2019histoire de l\u2019artD88D\u2019une pr\u00e9sentation de mus\u00e9e"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "925",
+                    "data-type": "single"
+                },
+                "text": "A88La manipulation des clients par les industrielsB88L\u2019attitude impr\u00e9visible des consommateursC88L\u2019uniformisation des saveurs et des go\u00fbtsD88L\u2019utilisation abusive des produits de synth\u00e8se"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "926",
+                    "data-type": "single"
+                },
+                "text": "A88Le recours \u00e0 l\u2019\u00e9nergie nucl\u00e9aire sera toujours indispensableB88Le d\u00e9veloppement d\u2019autres \u00e9nergies que le nucl\u00e9aire est superfluC88Le renoncement au nucl\u00e9aire doit \u00eatre m\u00fbrement planifi\u00e9D88L\u2019exploitation des for\u00eats peut pallier enti\u00e8rement le nucl\u00e9aire"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "927",
+                    "data-type": "single"
+                },
+                "text": "A88Gu\u00e9rir de leurs troubles du langageB88Int\u00e9grer une classe traditionnelleC88Pr\u00e9parer leur entr\u00e9e au coll\u00e8gueD88Profiter d\u2019un encadrement sp\u00e9cifique"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "1404",
+                    "data-type": "single"
+                },
+                "text": "A88Sa connaissance des m\u00e9diasB88Sas m\u00e9thodes ancestralesC88Ses recettes originalesD88Son charisme incroyable"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "929",
+                    "data-type": "single"
+                },
+                "text": "A88De participer \u00e0 l\u2019exploration du monde num\u00e9riqueB88De restreindre le temps consacr\u00e9 aux jeux vid\u00e9oC88De s\u00e9lectionner des contenus adapt\u00e9s aux enfantsD88De surveiller la navigation des jeunes sur la toile"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "930",
+                    "data-type": "single"
+                },
+                "text": "A88Convertir les lieux en maison de la cultureB88Diffuser l\u2019art dans des endroits inattendusC88Ouvrir un centre de formation artistiqueD88R\u00e9nover les anciens locaux en les d\u00e9corant"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "931",
+                    "data-type": "single"
+                },
+                "text": "A88Dans un centre de relaxationB88Dans un laboratoireC88Dans un mus\u00e9e arch\u00e9ologiqueD88Dans un parc naturel"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "932",
+                    "data-type": "single"
+                },
+                "text": "A88Il apaise les tensions de la soci\u00e9t\u00e9B88Il insiste sur le point de vue mat\u00e9rielC88Il propose des programmes utopiquesD88Il traite les probl\u00e8mes li\u00e9s aux sols"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "933",
+                    "data-type": "single"
+                },
+                "text": "A88L\u2019influence de ses contemporainsB88La singularit\u00e9 de ses portraitsC88Son engouement pour la natureD88Son travail post- impressionniste"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "934",
+                    "data-type": "single"
+                },
+                "text": "A88La capacit\u00e9 des plantes \u00e0 nettoyer les solsB88La rentabilit\u00e9 d\u2019un nouveau syst\u00e8me d\u2019extractionC88Le r\u00e9sultat des recherches de M. Van der HentD88Les pr\u00e9occupations \u00e9cologistes des industriels"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "935",
+                    "data-type": "single"
+                },
+                "text": "A88La d\u00e9gradation des relations sociales \u00e0 cause d\u2019internetB88La multiplication des sources d\u2019informationC88La nocivit\u00e9 des \u00e9crans sur le d\u00e9veloppement des enfantsD88La recrudescence d\u2019informations mensong\u00e8res"
+            }
+        ],
+        "points": 0
+    },
+    {
+        "class": "wpProQuiz_question",
+        "children": [
+            {
+                "tag": "div",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_question_text"
+                    ]
+                },
+                "text": ""
+            },
+            {
+                "tag": "p",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_clear"
+                    ],
+                    "style": "clear:both;"
+                },
+                "text": ""
+            },
+            {
+                "tag": "ul",
+                "attributes": {
+                    "class": [
+                        "wpProQuiz_questionList"
+                    ],
+                    "data-question_id": "1409",
+                    "data-type": "single"
+                },
+                "text": "A88Il constitue une cr\u00e9ation artistique novatriceB88Il \u00e9tablit des ponts avec d\u2019autres auteursC88Il fait connaitre les travaux d\u2019un \u00e9crivainD88Il ouvre la voie \u00e0 de prochaines r\u00e9alisations"
+            }
+        ],
+        "points": 0
+    }
+]

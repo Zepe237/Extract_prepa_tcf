@@ -1,0 +1,469 @@
+[{
+    "id": 0,
+    "title": "",
+    "proposition": {
+        "p1": "Le lundi matin.",
+        "p2": "Le mardi matin.",
+        "p3": "Le mercredi matin.",
+        "p4": "Le jeudi matin."
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 1,
+    "title": "",
+    "proposition": {
+        "p1": "Habiter \u00e0 la compagne.",
+        "p2": "R\u00e9server un h\u00f4tel.",
+        "p3": "Trouver un logement.",
+        "p4": "Vendre un appartement."
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 2,
+    "title": "",
+    "proposition": {
+        "p1": "Avec Mme Deor.",
+        "p2": "Avec un chauffeur.",
+        "p3": "En autobus.",
+        "p4": "En taxi."
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 3,
+    "title": "",
+    "proposition": {
+        "p1": "La comptable.",
+        "p2": "La secr\u00e9taire.",
+        "p3": "Le directeur.",
+        "p4": "Le r\u00e9parateur."
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 4,
+    "title": "",
+    "proposition": {
+        "p1": "Une journ\u00e9e.",
+        "p2": "Une semaine.",
+        "p3": "Une nuit.",
+        "p4": "Un mois."
+    },
+    "point": "9",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 5,
+    "title": "",
+    "proposition": {
+        "p1": "Il est tr\u00e8s occup\u00e9.",
+        "p2": "Il part en vacances.",
+        "p3": "Il travaille avec Fred.",
+        "p4": "Il veut venir plus t\u00f4t."
+    },
+    "point": "9",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 6,
+    "title": "",
+    "proposition": {
+        "p1": "\u00c0 ses amis.",
+        "p2": "\u00c0 ses coll\u00e8gues.",
+        "p3": "\u00c0 ses enfants.",
+        "p4": "\u00c0 ses voisins."
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 7,
+    "title": "",
+    "proposition": {
+        "p1": "En cours de soir\u00e9e.",
+        "p2": "En d\u00e9but et en fin de soir\u00e9e.",
+        "p3": "Entre chaque \u00e9mission.",
+        "p4": "Quatre fois dans la soir\u00e9e."
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 8,
+    "title": "",
+    "proposition": {
+        "p1": "Un atelier de cuisine.",
+        "p2": "Un d\u00e9m\u00e9nagement.",
+        "p3": "Une f\u00eate entre voisins.",
+        "p4": "Une visite d\u2019appartement."
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 9,
+    "title": "",
+    "proposition": {
+        "p1": "Elle est autoris\u00e9e.",
+        "p2": "Elle est dangereuse.",
+        "p3": "Elle est interdite.",
+        "p4": "Elle est limit\u00e9e."
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 10,
+    "title": "",
+    "proposition": {
+        "p1": "Consulter le serveur vocal.",
+        "p2": "Prendre rendez-vous par t\u00e9l\u00e9phone.",
+        "p3": "T\u00e9l\u00e9phoner aux horaires indiqu\u00e9s.",
+        "p4": "Demander le service de relation avec la client\u00e8le."
+    },
+    "point": "15",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 11,
+    "title": "",
+    "proposition": {
+        "p1": "Un message d\u2019excuse.",
+        "p2": "Une d\u00e9claration d\u2019amour.",
+        "p3": "Une invitation \u00e0 une f\u00eate.",
+        "p4": "Une lettre de vacances."
+    },
+    "point": "15",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 12,
+    "title": "",
+    "proposition": {
+        "p1": "D\u2019envoyer tr\u00e8s rapidement le devis.",
+        "p2": "D\u2019interdire l\u2019emploi de produits toxiques.",
+        "p3": "De lib\u00e9rer les lieux pendant les travaux.",
+        "p4": "De pr\u00e9ciser la nature de l\u2019intervention."
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 13,
+    "title": "",
+    "proposition": {
+        "p1": "Il montre des documentaires sur les conditions de vie des sourds.",
+        "p2": "Il organise des conf\u00e9rences sur la langue utilis\u00e9e par les sourds.",
+        "p3": "Il pr\u00e9sente des films r\u00e9alis\u00e9s par des personnes sourdes.",
+        "p4": "Il programme des spectacles destin\u00e9s \u00e0 un jeune public sourd."
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 14,
+    "title": "",
+    "proposition": {
+        "p1": "Casablanca.",
+        "p2": "F\u00e8s.",
+        "p3": "Marrakech.",
+        "p4": "Tanger."
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 15,
+    "title": "",
+    "proposition": {
+        "p1": "Un centre de loisirs pour les habitants de son quartier.",
+        "p2": "Un restaurant qui sert des sp\u00e9cialit\u00e9s de sa r\u00e9gion.",
+        "p3": "Un service municipal d\u2019aide sociale aux jeunes c\u00e9libataires.",
+        "p4": "Une mani\u00e8re originale de rencontrer des gens pr\u00e8s de chez elle."
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 16,
+    "title": "",
+    "proposition": {
+        "p1": "Pour \u00e9viter de conduire.",
+        "p2": "Pour faire r\u00eaver les enfants.",
+        "p3": "Pour marcher sans souffrir.",
+        "p4": "Pour porter des objets lourds."
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 17,
+    "title": "",
+    "proposition": {
+        "p1": "Corriger les mauvaises habitudes alimentaires des enfants.",
+        "p2": "Faire respecter la l\u00e9gislation sur l\u2019alimentation des enfants.",
+        "p3": "Mieux comprendre les pr\u00e9f\u00e9rences alimentaires des enfants.",
+        "p4": "Permettre aux enfants de d\u00e9couvrir de nouveaux aliments."
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 18,
+    "title": "",
+    "proposition": {
+        "p1": "L\u2019arriv\u00e9e d\u2019une troupe de com\u00e9diens \u00e0 la campagne.",
+        "p2": "L\u2019enqu\u00eate polici\u00e8re d\u2019une personne tr\u00e8s rationnelle.",
+        "p3": "La vie des paysans n\u00e9erlandais au XVIIIE si\u00e8cle.",
+        "p4": "Les exp\u00e9riences originales d\u2019un scientifique anglais."
+    },
+    "point": "15",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 19,
+    "title": "",
+    "proposition": {
+        "p1": "Leur conception de la cuisine est pass\u00e9e de mode.",
+        "p2": "Leur cr\u00e9ativit\u00e9 leur assure une c\u00e9l\u00e9brit\u00e9 mondiale.",
+        "p3": "Leur nom s\u2019est transform\u00e9 en label de prestige.",
+        "p4": "Leurs \u00e9tablissements sont cot\u00e9s en bourse."
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 20,
+    "title": "",
+    "proposition": {
+        "p1": "Le remboursement de son article.",
+        "p2": "L\u2019\u00e9change de son t\u00e9l\u00e9phone.",
+        "p3": "L\u2019envoi de son t\u00e9l\u00e9phone par la poste.",
+        "p4": "Une r\u00e9clamation sur son achat."
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 21,
+    "title": "",
+    "proposition": {
+        "p1": "D\u2019analyser les moyens de s\u00e9duire les jeunes.",
+        "p2": "De moderniser le contenu des expositions.",
+        "p3": "De s\u2019inspirer des approches p\u00e9dagogiques scolaires.",
+        "p4": "De syst\u00e9matiser l\u2019acc\u00e8s gratuit pour les adolescents."
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 22,
+    "title": "",
+    "proposition": {
+        "p1": "Elle donne l\u2019assurance d\u2019un d\u00e9pannage rapide.",
+        "p2": "Elle donne lieu \u00e0 une r\u00e9duction sur l\u2019assurance.",
+        "p3": "Elle offre la possibilit\u00e9 d\u2019une garantie de qualit\u00e9.",
+        "p4": "Elle permet de d\u00e9penser moins d\u2019argent."
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 23,
+    "title": "",
+    "proposition": {
+        "p1": "L\u2019originalit\u00e9 des plats.",
+        "p2": "La qualit\u00e9 des produits.",
+        "p3": "Le cadre du restaurant.",
+        "p4": "Le prix des menus."
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 24,
+    "title": "",
+    "proposition": {
+        "p1": "Un rappel d\u2019un impay\u00e9 en cours.",
+        "p2": "Une facture \u00e0 payer rapidement.",
+        "p3": "Une proposition de paiement diff\u00e9r\u00e9.",
+        "p4": "Une erreur de r\u00e8glement."
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 25,
+    "title": "",
+    "proposition": {
+        "p1": "Elle favorise l\u2019orientation des \u00e9l\u00e8ves apr\u00e8s l\u2019obtention du baccalaur\u00e9at.",
+        "p2": "Elle permet de renforcer les liens \u00e9ducatifs entre adultes et \u00e9l\u00e8ves.",
+        "p3": "Elle r\u00e9pond de mani\u00e8re pertinente aux difficult\u00e9s et aux aspirations des \u00e9l\u00e8ves.",
+        "p4": "Elle veille \u00e0 la concr\u00e9tisation des projets professionnels des \u00e9l\u00e8ves."
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 26,
+    "title": "",
+    "proposition": {
+        "p1": "Obtenir de l\u2019argent pour d\u00e9velopper des centres d\u2019accueil.",
+        "p2": "Convaincre les entreprises \u00e9trang\u00e8res d\u2019investir au Burundi.",
+        "p3": "Soutenir les \u00e9tudiants burundais expatri\u00e9s pour leurs \u00e9tudes.",
+        "p4": "Trouver des b\u00e9n\u00e9voles pour s\u2019occuper des enfants \u00e0 l\u2019h\u00f4pital."
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 27,
+    "title": "",
+    "proposition": {
+        "p1": "Des outils de communication.",
+        "p2": "Des voyages organis\u00e9s.",
+        "p3": "Une formation \u00e0 l\u2019\u00e9cologie.",
+        "p4": "Un syst\u00e8me d\u2019information."
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 28,
+    "title": "",
+    "proposition": {
+        "p1": "L\u2019abus d\u2019anglicismes en langage informatique.",
+        "p2": "L\u2019ambigu\u00eft\u00e9 du n\u00e9ologisme \u00ab chat \u00bb \u00e0 l\u2019\u00e9crit.",
+        "p3": "Le laxisme orthographique dans les forums.",
+        "p4": "Le manque d\u2019imagination des lexicologues."
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 29,
+    "title": "",
+    "proposition": {
+        "p1": "Gu\u00e9rir de leurs troubles du langage.",
+        "p2": "Int\u00e9grer une classe traditionnelle.",
+        "p3": "Pr\u00e9parer leur entr\u00e9e au coll\u00e8gue.",
+        "p4": "Profiter d\u2019un encadrement sp\u00e9cifique."
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 30,
+    "title": "",
+    "proposition": {
+        "p1": "D\u2019attirer l\u2019attention de l\u2019interlocuteur.",
+        "p2": "D\u2019imaginer des solutions originales.",
+        "p3": "De solliciter davantage la raison.",
+        "p4": "De trouver des r\u00e9ponses rapides."
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 31,
+    "title": "",
+    "proposition": {
+        "p1": "Le dosage des produits chimiques dans les aliments.",
+        "p2": "Le manque de lisibilit\u00e9 des \u00e9tiquettes.",
+        "p3": "Les arguments hypocrites avanc\u00e9s par les fabricants.",
+        "p4": "Les cons\u00e9quences sanitaires des ajouts."
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 32,
+    "title": "",
+    "proposition": {
+        "p1": "Il inqui\u00e8te les patrons de soci\u00e9t\u00e9s.",
+        "p2": "Il touche les employ\u00e9s les plus faibles.",
+        "p3": "Son existence doit \u00eatre officialis\u00e9e.",
+        "p4": "Son traitement est peu efficace."
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 33,
+    "title": "",
+    "proposition": {
+        "p1": "Les gestes r\u00e9v\u00e8leraient syst\u00e9matiquement la langue maternelle des locuteurs.",
+        "p2": "Il existerait un ordre universel de la pens\u00e9e, ind\u00e9pendant de l\u2019ordre linguistique.",
+        "p3": "Il y aurait autant de fa\u00e7ons de penser que de structures de langue diff\u00e9rentes.",
+        "p4": "Les structures des langues seraient d\u00e9pendantes de notre exp\u00e9rience du monde."
+    },
+    "point": "26",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 34,
+    "title": "",
+    "proposition": {
+        "p1": "C\u2019est un vecteur de diffusion des \u0153uvres litt\u00e9raires.",
+        "p2": "C\u2019est une source de connaissances s\u00fbre et fiable.",
+        "p3": "L\u2019audience des \u00e9missions culturelles est en hausse.",
+        "p4": "La concurrence qu\u2019elle m\u00e8ne \u00e0 la lecture est acharn\u00e9e."
+    },
+    "point": "26",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 35,
+    "title": "",
+    "proposition": {
+        "p1": "La quasi-absence d\u2019h\u00e9ro\u00efnes.",
+        "p2": "L\u2019appel constant \u00e0 la violence.",
+        "p3": "L\u2019att\u00e9nuation des clich\u00e9s.",
+        "p4": "L\u2019uniformit\u00e9 des sc\u00e9narios."
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 36,
+    "title": "",
+    "proposition": {
+        "p1": "La capacit\u00e9 des plantes \u00e0 nettoyer les sols.",
+        "p2": "La rentabilit\u00e9 d\u2019un nouveau syst\u00e8me d\u2019extraction.",
+        "p3": "Le r\u00e9sultat des recherches de M. Van der Hent.",
+        "p4": "Les pr\u00e9occupations \u00e9cologistes des industriels."
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 37,
+    "title": "",
+    "proposition": {
+        "p1": "De concr\u00e9tiser des objectifs personnels.",
+        "p2": "De fonctionner dans un cadre innovent.",
+        "p3": "De limiter la r\u00e9partition des gains.",
+        "p4": "De renforcer les liens entre les g\u00e9n\u00e9rations."
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 38,
+    "title": "",
+    "proposition": {
+        "p1": "Des attitudes contradictoires forgeant une identit\u00e9.",
+        "p2": "Un \u00e9gocentrisme d\u00e9suet au temps de la mondialisation.",
+        "p3": "Un ensemble de valeurs partag\u00e9es par une \u00e9lite.",
+        "p4": "Une aptitude \u00e0 l\u2019ouverture qui tend \u00e0 dispara\u00eetre."
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+}]

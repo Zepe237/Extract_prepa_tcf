@@ -1,0 +1,469 @@
+[{
+    "id": 0,
+    "title": "",
+    "proposition": {
+        "p1": "Frapper et entrer",
+        "p2": "Prendre rendez-vous",
+        "p3": "Revenir plus tard",
+        "p4": "T\u00e9l\u00e9phoner"
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 1,
+    "title": "",
+    "proposition": {
+        "p1": "L\u2019escalier",
+        "p2": "La station de m\u00e9tro",
+        "p3": "Les ascenseurs",
+        "p4": "Les guichets"
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 2,
+    "title": "",
+    "proposition": {
+        "p1": "De faire des \u00e9conomies",
+        "p2": "De pratiquer un sport",
+        "p3": "De rester en bonne sant\u00e9",
+        "p4": "De trouver des produits bios"
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 3,
+    "title": "",
+    "proposition": {
+        "p1": "Des cours gratuits",
+        "p2": "Des postes \u00e0 l\u2019\u00e9tranger",
+        "p3": "Des stages en Italie",
+        "p4": "Des voyages en Europe"
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 4,
+    "title": "",
+    "proposition": {
+        "p1": "La date",
+        "p2": "La mati\u00e8re",
+        "p3": "Le lieu",
+        "p4": "L\u2019heure"
+    },
+    "point": "9",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 5,
+    "title": "",
+    "proposition": {
+        "p1": "Un concours de cuisine entre amis",
+        "p2": "Un d\u00eener entre anciens \u00e9l\u00e8ves",
+        "p3": "Un repas avec toute sa famille",
+        "p4": "Une f\u00eate de fin d\u2019ann\u00e9e scolaire"
+    },
+    "point": "9",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 6,
+    "title": "",
+    "proposition": {
+        "p1": "De la fermeture d\u2019un magasin",
+        "p2": "De l\u2019anniversaire d\u2019un magasin",
+        "p3": "De la transformation d\u2019un magasin",
+        "p4": "De l\u2019ouverture d\u2019un magasin"
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 7,
+    "title": "",
+    "proposition": {
+        "p1": "Dans la journ\u00e9e",
+        "p2": "Le lendemain",
+        "p3": "Le soir-m\u00eame",
+        "p4": "Vendredi matin"
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 8,
+    "title": "",
+    "proposition": {
+        "p1": "Demander des informations sur des produits",
+        "p2": "Passer une commande de produits",
+        "p3": "Pr\u00e9senter de nouveaux produits",
+        "p4": "Proposer une d\u00e9gustation de produits"
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 9,
+    "title": "",
+    "proposition": {
+        "p1": "\u00c0 acheter des cadeaux",
+        "p2": "\u00c0 envoyer des paquets",
+        "p3": "\u00c0 louer des camions",
+        "p4": "\u00c0 r\u00e9server des billets"
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 10,
+    "title": "",
+    "proposition": {
+        "p1": "Pour inviter des amis \u00e0 leur anniversaire",
+        "p2": "Pour organiser une r\u00e9union entre locataires",
+        "p3": "Pour pr\u00e9venir leurs voisins de leur f\u00eate",
+        "p4": "Pour trouver des musiciens pour la soir\u00e9e"
+    },
+    "point": "15",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 11,
+    "title": "",
+    "proposition": {
+        "p1": "D\u2019apprendre \u00e0 s\u2019orienter dans la ville",
+        "p2": "De se former au m\u00e9tier de guide",
+        "p3": "De visiter des expositions photo",
+        "p4": "De voir Lyon d\u2019une fa\u00e7on diff\u00e9rente"
+    },
+    "point": "15",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 12,
+    "title": "",
+    "proposition": {
+        "p1": "L\u2019anniversaire d\u2019un magasin",
+        "p2": "L\u2019augmentation des ventes",
+        "p3": "L\u2019ouverture d\u2019un commerce",
+        "p4": "Le d\u00e9but des soldes d\u2019\u00e9t\u00e9"
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 13,
+    "title": "",
+    "proposition": {
+        "p1": "Annoncer la sortie d\u2019un roman",
+        "p2": "D\u00e9fendre les petits commerces",
+        "p3": "Donner la parole \u00e0 des enfants",
+        "p4": "Faire conna\u00eetre la ville de Quimper"
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 14,
+    "title": "",
+    "proposition": {
+        "p1": "Une familiarisation avec les codes socioprofessionnels fran\u00e7ais",
+        "p2": "Une formation \u00e0 de nouvelles m\u00e9thodes technico-commerciale",
+        "p3": "Une pr\u00e9paration pour travailler dans une entreprise \u00e0 l\u2019\u00e9tranger",
+        "p4": "Une pr\u00e9paration des emplois dans des soci\u00e9t\u00e9s internationales"
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 15,
+    "title": "",
+    "proposition": {
+        "p1": "Un rendez-vous avec le sportif",
+        "p2": "Une place offerte pour les JO",
+        "p3": "Une s\u00e9ance de badminton",
+        "p4": "Une victoire de Brice Leverdez"
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 16,
+    "title": "",
+    "proposition": {
+        "p1": "Avoir comme seul objectif de terminer l\u2019\u00e9preuve",
+        "p2": "Pratiquer la course \u00e0 pied plusieurs fois par semaine",
+        "p3": "Prendre r\u00e9guli\u00e8rement des m\u00e9dicaments anti-douleur",
+        "p4": "Se donner de longues p\u00e9riodes de r\u00e9cup\u00e9ration"
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 17,
+    "title": "",
+    "proposition": {
+        "p1": "Des objets d\u2019arts",
+        "p2": "Des sp\u00e9cialit\u00e9s locales",
+        "p3": "Des produits \u00e9cologiques",
+        "p4": "Des marchandises exotiques"
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 18,
+    "title": "",
+    "proposition": {
+        "p1": "L\u2019anxi\u00e9t\u00e9 en avion diminue la sensation de faim",
+        "p2": "La qualit\u00e9 de la nourriture se d\u00e9t\u00e9riore en altitude",
+        "p3": "Le bruit alt\u00e8re le sens du go\u00fbt des passagers",
+        "p4": "Les plats propos\u00e9s en vol manquent de saveur"
+    },
+    "point": "15",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 19,
+    "title": "",
+    "proposition": {
+        "p1": "Le remboursement de son article",
+        "p2": "L\u2019\u00e9change de son t\u00e9l\u00e9phone",
+        "p3": "L\u2019envoi de son t\u00e9l\u00e9phone par la poste",
+        "p4": "Une r\u00e9clamation sur son achat"
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 20,
+    "title": "",
+    "proposition": {
+        "p1": "C\u2019est possible \u00e0 la compagne",
+        "p2": "C\u2019est possible avec du temps",
+        "p3": "C\u2019est possible mais p\u00e9nible",
+        "p4": "C\u2019est possible pour tous"
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 21,
+    "title": "",
+    "proposition": {
+        "p1": "Apprendre \u00e0 g\u00e9rer une entrevue importante avec un banquier",
+        "p2": "D\u00e9terminer le lien, positif ou non, que les gens ont avec l\u2019argent",
+        "p3": "Identifier les conditions et facteurs d\u2019addiction aux jeux de hasard",
+        "p4": "Montrer l\u2019importance de la chimie dans les rapports humains"
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 22,
+    "title": "",
+    "proposition": {
+        "p1": "Il consid\u00e8re que l\u2019\u00e8re du support papier est d\u00e9finitivement termin\u00e9e",
+        "p2": "Il estime qu\u2019il reste du travail \u00e0 faire pour mieux pr\u00e9parer cette \u00e9volution",
+        "p3": "Il juge indispensable de n\u2019utiliser que les supports \u00e9lectroniques",
+        "p4": "Il pense qu\u2019il faut privil\u00e9gier le contact des \u00e9l\u00e8ves avec l\u2019outil internet"
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 23,
+    "title": "",
+    "proposition": {
+        "p1": "Il devient la solution id\u00e9ale des voyages organis\u00e9s \u00e0 la derni\u00e8re minute.",
+        "p2": "Il est accessible \u00e0 un nombre croissant d\u2019utilisateurs gr\u00e2ce \u00e0 internet.",
+        "p3": "Il occupe une place grandissante dans les petites annonces des journaux.",
+        "p4": "Il s\u2019impose comme le moyen de d\u00e9placement \u00e0 la mode chez les jeunes."
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 24,
+    "title": "",
+    "proposition": {
+        "p1": "La mise en sc\u00e8ne",
+        "p2": "La qualit\u00e9 des d\u00e9cors",
+        "p3": "Le jeu des interpr\u00e8tes",
+        "p4": "L\u2019int\u00e9r\u00eat de l\u2019intrigue"
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 25,
+    "title": "",
+    "proposition": {
+        "p1": "Elle augmentera le nombre de lecteurs",
+        "p2": "Elle d\u00e9veloppera la visibilit\u00e9 des \u0153uvres",
+        "p3": "Elle diminuera le co\u00fbt des ouvrages",
+        "p4": "Elle entra\u00eenera un gain financier"
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 26,
+    "title": "",
+    "proposition": {
+        "p1": "Pour am\u00e9liorer les m\u00e9thodes de travail de la cantine",
+        "p2": "Pour encourager la cr\u00e9ation de formations professionnelles",
+        "p3": "Pour faire na\u00eetre l\u2019envie de s\u2019investir dans un m\u00e9tier",
+        "p4": "Pour sensibiliser le grand public \u00e0 la r\u00e9alit\u00e9 de la vie carc\u00e9rale"
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 27,
+    "title": "",
+    "proposition": {
+        "p1": "Il change notre regard sur les livres",
+        "p2": "Il facilite la m\u00e9morisation de nouveaux concepts",
+        "p3": "Il revalorise la culture transmise par l\u2019\u00e9cole",
+        "p4": "Il transforme notre rapport au savoir"
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 28,
+    "title": "",
+    "proposition": {
+        "p1": "L\u2019abus d\u2019anglicisme en langage informatique",
+        "p2": "L\u2019ambigu\u00eft\u00e9 du n\u00e9ologisme \u00ab chat \u00bb \u00e0 l\u2019\u00e9crire",
+        "p3": "Le laxisme orthographique dans les forums",
+        "p4": "Le manque d\u2019imagination des lexicologues"
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 29,
+    "title": "",
+    "proposition": {
+        "p1": "\u00c0 l\u2019atmosph\u00e8re lourde et path\u00e9tique",
+        "p2": "L\u2019utilisation abusive de flashbacks",
+        "p3": "La caricature du film de genre",
+        "p4": "Le jeu conviction des com\u00e9diens"
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 30,
+    "title": "",
+    "proposition": {
+        "p1": "L\u2019anniversaire d\u2019une radio",
+        "p2": "La 200 e \u00e9dition d\u2019une \u00e9mission",
+        "p3": "Le d\u00e9part d\u2019une animatrice",
+        "p4": "Le travail d\u2019un directeur"
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 31,
+    "title": "",
+    "proposition": {
+        "p1": "Il du mal \u00e0 se d\u00e9placer dans la foule",
+        "p2": "Il est emport\u00e9 par une foule press\u00e9e",
+        "p3": "Il est paralys\u00e9 par l\u2019hostilit\u00e9 de la foule",
+        "p4": "Il imagine les r\u00e9pliques impolies de la foule"
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 32,
+    "title": "",
+    "proposition": {
+        "p1": "Devenir indiff\u00e9rent aux autres",
+        "p2": "Disposer de ressources int\u00e9rieures",
+        "p3": "Exploiter les comp\u00e9tences acquises",
+        "p4": "S\u2019\u00e9loigner de la vie en soci\u00e9t\u00e9"
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 33,
+    "title": "",
+    "proposition": {
+        "p1": "Ils correspondent \u00e0 des programmes scolaires obsol\u00e8tes",
+        "p2": "Ils m\u00e9connaissent l\u2019existence des familles recompos\u00e9es",
+        "p3": "Ils pr\u00e9sentent un partage sexiste des t\u00e2ches dans le couple",
+        "p4": "Ils se moquent du quotidien des personnes sans emploi"
+    },
+    "point": "26",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 34,
+    "title": "",
+    "proposition": {
+        "p1": "Il se sentait trop vieux pour les tourn\u00e9es",
+        "p2": "Il voulait fouir son image d\u2019idole des jeunes",
+        "p3": "Le public pr\u00e9f\u00e9rait l\u2019\u00e9crivain au chanteur",
+        "p4": "Ses chansons \u00e9taient pass\u00e9es de mode"
+    },
+    "point": "26",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 35,
+    "title": "",
+    "proposition": {
+        "p1": "Le co\u00fbt social \u00e9lev\u00e9 de prise en charge des maladies gins",
+        "p2": "Le d\u00e9veloppement de traitements curatifs de pathologies g\u00e9n\u00e9tiques",
+        "p3": "Le mode de financement de la recherche g\u00e9n\u00e9tique fondamentale",
+        "p4": "Les d\u00e9rives induites par l\u2019am\u00e9lioration du patrimoine g\u00e9n\u00e9tique"
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 36,
+    "title": "",
+    "proposition": {
+        "p1": "Elle a un effet n\u00e9gligeable sur l\u2019intellect",
+        "p2": "Elle accro\u00eet la capacit\u00e9 de concentration",
+        "p3": "Elle facilite le rep\u00e9rage dans l\u2019espace",
+        "p4": "Elle perturbe le raisonnement logique"
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 37,
+    "title": "",
+    "proposition": {
+        "p1": "Concevoir des pr\u00e9visions \u00e0 court terme",
+        "p2": "\u00c9laborer des programmes de calcul",
+        "p3": "Finaliser des animations visuelles",
+        "p4": "Synth\u00e9tiser les informations des satellites"
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 38,
+    "title": "",
+    "proposition": {
+        "p1": "Des attitudes contradictoires forgeant une identit\u00e9",
+        "p2": "Un \u00e9gocentrisme d\u00e9suet au temps de la mondialisation",
+        "p3": "Un ensemble de valeurs partag\u00e9es par une \u00e9lite",
+        "p4": "Une aptitude \u00e0 l\u2019ouverture qui tend \u00e0 dispara\u00eetre"
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+}]

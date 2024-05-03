@@ -1,0 +1,469 @@
+[{
+    "id": 0,
+    "title": "",
+    "proposition": {
+        "p1": "\u00c0 moto.",
+        "p2": "\u00c0 pied.",
+        "p3": "\u00c0 v\u00e9lo.",
+        "p4": "En taxi."
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 1,
+    "title": "",
+    "proposition": {
+        "p1": "Ses le\u00e7ons \u00e0 distance.",
+        "p2": "Ses professeurs exp\u00e9riment\u00e9s.",
+        "p3": "Ses salles neuves connect\u00e9es.",
+        "p4": "Ses tarifs bon march\u00e9."
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 2,
+    "title": "",
+    "proposition": {
+        "p1": "Il annonce son absence.",
+        "p2": "Il donne un rendez-vous.",
+        "p3": "Il indique son arriv\u00e9e.",
+        "p4": "Il signale son retard."
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 3,
+    "title": "",
+    "proposition": {
+        "p1": "D\u2019aller \u00e0 un concert.",
+        "p2": "D\u2019organiser un voyage.",
+        "p3": "De d\u00e9jeuner chez lui.",
+        "p4": "De garder ses enfants."
+    },
+    "point": "3",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 4,
+    "title": "",
+    "proposition": {
+        "p1": "La date.",
+        "p2": "La mati\u00e8re.",
+        "p3": "Le lieu.",
+        "p4": "L\u2019heure."
+    },
+    "point": "9",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 5,
+    "title": "",
+    "proposition": {
+        "p1": "D\u2019apprendre \u00e0 cuisiner des plats \u00e9trangers.",
+        "p2": "D\u2019organiser des repas-spectacles \u00e0 th\u00e8mes.",
+        "p3": "De gagner un voyage \u00e0 la fin du repas.",
+        "p4": "De go\u00fbter des sp\u00e9cialit\u00e9s franco-espagnoles."
+    },
+    "point": "9",
+    "niveau": "A1",
+    "reponse": ""
+},{
+    "id": 6,
+    "title": "",
+    "proposition": {
+        "p1": "De l\u2019inscription des \u00e9l\u00e8ves.",
+        "p2": "Des horaires de sortie.",
+        "p3": "Des repas \u00e0 la cantine.",
+        "p4": "Du temps de repos."
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 7,
+    "title": "",
+    "proposition": {
+        "p1": "Cuisiner.",
+        "p2": "\u00c9tudier.",
+        "p3": "S\u2019amuser.",
+        "p4": "Se promener."
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 8,
+    "title": "",
+    "proposition": {
+        "p1": "Ils aiment en voir dans la nature.",
+        "p2": "Ils les regardent \u00e0 la t\u00e9l\u00e9vision.",
+        "p3": "Ils sont nombreux \u00e0 en avoir.",
+        "p4": "Ils vont les voir dans des zoos."
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 9,
+    "title": "",
+    "proposition": {
+        "p1": "D\u2019envoyer des photos.",
+        "p2": "D\u2019inventer une recette.",
+        "p3": "De cr\u00e9er un spectacle.",
+        "p4": "De d\u00e9couvrir une langue."
+    },
+    "point": "9",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 10,
+    "title": "",
+    "proposition": {
+        "p1": "Des chocolats.",
+        "p2": "Des romans.",
+        "p3": "Des valises.",
+        "p4": "Ses v\u00eatements."
+    },
+    "point": "15",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 11,
+    "title": "",
+    "proposition": {
+        "p1": "Pour acheter des meubles de biblioth\u00e8que.",
+        "p2": "Pour organiser un concours de lecture.",
+        "p3": "Pour ouvrir un salon de th\u00e9 litt\u00e9raire.",
+        "p4": "Pour s\u2019installer dans un local plus vaste."
+    },
+    "point": "15",
+    "niveau": "A2",
+    "reponse": ""
+},{
+    "id": 12,
+    "title": "",
+    "proposition": {
+        "p1": "D\u2019argent pour la course.",
+        "p2": "De livres pour les enfants.",
+        "p3": "De produits pour les repas.",
+        "p4": "D\u2019une voiture pour le transport."
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 13,
+    "title": "",
+    "proposition": {
+        "p1": "Il a un rendez-vous \u00e0 l\u2019h\u00f4pital.",
+        "p2": "Il doit annuler leur rencontre.",
+        "p3": "Il est parti acheter un portable.",
+        "p4": "Il va arriver en retard chez lui."
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 14,
+    "title": "",
+    "proposition": {
+        "p1": "\u00c9couter des chansons.",
+        "p2": "Gagner des cadeaux.",
+        "p3": "Go\u00fbter des recettes.",
+        "p4": "Jouer dans un film."
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 15,
+    "title": "",
+    "proposition": {
+        "p1": "C\u2019est un mus\u00e9e peu fr\u00e9quent\u00e9.",
+        "p2": "Il a r\u00e9ussi \u00e0 s\u00e9duire un public local.",
+        "p3": "On y d\u00e9couvrir l\u2019histoire de la r\u00e9gion.",
+        "p4": "Sa collection sera pr\u00e9sent\u00e9e \u00e0 Paris."
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 16,
+    "title": "",
+    "proposition": {
+        "p1": "D\u2019un com\u00e9dien qui tourne dans des bidonvilles.",
+        "p2": "D\u2019un homme qui produit des \u0153uvres originales.",
+        "p3": "De la sant\u00e9 d\u2019un membre du gouvernement.",
+        "p4": "De mesure \u00e9cologique prise par une mairie."
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 17,
+    "title": "",
+    "proposition": {
+        "p1": "Des id\u00e9es de stages en entreprise.",
+        "p2": "Un guide des d\u00e9marches d\u2019inscription.",
+        "p3": "Une m\u00e9thode pour choisir une formation.",
+        "p4": "Une s\u00e9lection des meilleures universit\u00e9s."
+    },
+    "point": "15",
+    "niveau": "B1",
+    "reponse": ""
+},{
+    "id": 18,
+    "title": "",
+    "proposition": {
+        "p1": "L\u2019origine historique de la recette.",
+        "p2": "Le secret d\u2019une bonne pr\u00e9paration.",
+        "p3": "Les adresses o\u00f9 les consommer.",
+        "p4": "Les raisons de leur popularit\u00e9."
+    },
+    "point": "15",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 19,
+    "title": "",
+    "proposition": {
+        "p1": "La r\u00e9putation de restaurants touristiques est menac\u00e9e par internet.",
+        "p2": "La technologie modifie la relation \u00e0 la gastronomie.",
+        "p3": "Les grands chefs livrent leurs secrets sur des sites.",
+        "p4": "Les traditions culinaires peuvent se perp\u00e9tuer gr\u00e2ce au num\u00e9rique."
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 20,
+    "title": "",
+    "proposition": {
+        "p1": "Le remboursement de son article.",
+        "p2": "L\u2019\u00e9change de son t\u00e9l\u00e9phone.",
+        "p3": "L\u2019envoi de son t\u00e9l\u00e9phone par la poste.",
+        "p4": "Une r\u00e9clamation sur son achat."
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 21,
+    "title": "",
+    "proposition": {
+        "p1": "C\u2019est possible \u00e0 la campagne.",
+        "p2": "C\u2019est possible avec du temps.",
+        "p3": "C\u2019est possible, mais p\u00e9nible.",
+        "p4": "C\u2019est possible pour tous."
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 22,
+    "title": "",
+    "proposition": {
+        "p1": "Il consid\u00e8re que l\u2019\u00e8re du support papier est d\u00e9finitivement termin\u00e9e.",
+        "p2": "Il estime qu\u2019il reste du travail \u00e0 faire pour mieux pr\u00e9parer cette \u00e9volution.",
+        "p3": "Il juge indispensable de n\u2019utiliser que les supports \u00e9lectroniques.",
+        "p4": "Il pense qu\u2019il faut privil\u00e9gier le contact des \u00e9l\u00e8ves avec l\u2019outil internet."
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 23,
+    "title": "",
+    "proposition": {
+        "p1": "D\u2019am\u00e9nager des r\u00e9serves restreignant la p\u00eache.",
+        "p2": "D\u2019encourager une politique mondiale de la p\u00eache.",
+        "p3": "D\u2019organiser des contr\u00f4les pour surveiller la p\u00eache.",
+        "p4": "De cr\u00e9er des taxes sur les produits de la p\u00eache."
+    },
+    "point": "21",
+    "niveau": "B2",
+    "reponse": ""
+},{
+    "id": 24,
+    "title": "",
+    "proposition": {
+        "p1": "Ils influencent les \u00e9l\u00e8ves au-del\u00e0 de la classe.",
+        "p2": "Ils instillent le go\u00fbt du travail en \u00e9quipe.",
+        "p3": "Ils permettent au syst\u00e8me de se maintenir.",
+        "p4": "Ils suscitent de nombreuses vocations."
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 25,
+    "title": "",
+    "proposition": {
+        "p1": "Ils alternent les supports selon le type d\u2019activit\u00e9.",
+        "p2": "Ils h\u00e9sitent \u00e0 utiliser les techniques informatiques.",
+        "p3": "Ils optent toujours pour des ouvrages imprim\u00e9s.",
+        "p4": "Ils tiennent compte des progr\u00e8s des apprenants."
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 26,
+    "title": "",
+    "proposition": {
+        "p1": "D\u2019un catalogue de styliste.",
+        "p2": "D\u2019un dictionnaire philosophique.",
+        "p3": "D\u2019un manuel d\u2019histoire de l\u2019art.",
+        "p4": "D\u2019une pr\u00e9sentation de mus\u00e9e."
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 27,
+    "title": "",
+    "proposition": {
+        "p1": "C\u2019est un produit recherch\u00e9 par les consommateurs.",
+        "p2": "Elle valorise des m\u00e9thodes agricoles traditionnelles.",
+        "p3": "Ses qualit\u00e9s nutritionnelles sont reconnues.",
+        "p4": "Son exploitation g\u00e9n\u00e8re des revenus \u00e9lev\u00e9s."
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 28,
+    "title": "",
+    "proposition": {
+        "p1": "Les changements de climat.",
+        "p2": "Les m\u00e9thodes de culture.",
+        "p3": "Les oiseaux pr\u00e9dateurs.",
+        "p4": "Les politiques publiques."
+    },
+    "point": "21",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 29,
+    "title": "",
+    "proposition": {
+        "p1": "Sa connaissance des m\u00e9dias.",
+        "p2": "Ses m\u00e9thodes ancestrales.",
+        "p3": "Ses recettes originales.",
+        "p4": "Son charisme incroyable."
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 30,
+    "title": "",
+    "proposition": {
+        "p1": "Am\u00e9lie a d\u00e9m\u00e9nag\u00e9 r\u00e9cemment.",
+        "p2": "Am\u00e9lie a invit\u00e9 Florence.",
+        "p3": "Florence a beaucoup de travail.",
+        "p4": "Florence aime le bord de mer."
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 31,
+    "title": "",
+    "proposition": {
+        "p1": "Il a plus d\u2019illustrations que d\u2019\u00e9crit.",
+        "p2": "Il pr\u00e9serve l\u2019imaginaire des enfants.",
+        "p3": "Il touche \u00e9galement les adultes.",
+        "p4": "Il valorise le patrimoine litt\u00e9raire."
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 32,
+    "title": "",
+    "proposition": {
+        "p1": "D\u2019anciens artistes ont l\u2019occasion de monter sur sc\u00e8ne.",
+        "p2": "Les financements publics contribuent \u00e0 leur expansion.",
+        "p3": "Les organisateurs s\u2019adaptent aux nouvelles tendances.",
+        "p4": "Les tarifs propos\u00e9s d\u00e9pendent de la programmation."
+    },
+    "point": "26",
+    "niveau": "C1",
+    "reponse": ""
+},{
+    "id": 33,
+    "title": "",
+    "proposition": {
+        "p1": "Il constitue un bienfait autant qu\u2019un probl\u00e8me.",
+        "p2": "Il est menac\u00e9 d\u2019ass\u00e8chement.",
+        "p3": "Il pollue les terres avoisinantes.",
+        "p4": "Il repr\u00e9sente un attrait touristique essentiel."
+    },
+    "point": "26",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 34,
+    "title": "",
+    "proposition": {
+        "p1": "Sa technique puise dans divers mouvements artistiques.",
+        "p2": "Ses \u0153uvres se fondent dans leur environnement.",
+        "p3": "Son inspiration provient de ses nombreuses lectures.",
+        "p4": "Son savoir-faire met en valeur des proc\u00e9d\u00e9s connus."
+    },
+    "point": "26",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 35,
+    "title": "",
+    "proposition": {
+        "p1": "L\u2019influence de ses contemporains.",
+        "p2": "La singularit\u00e9 de ses portraits.",
+        "p3": "Son engouement pour la nature.",
+        "p4": "Son travail post-impressionniste."
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 36,
+    "title": "",
+    "proposition": {
+        "p1": "Une ad\u00e9quation avec l\u2019attente des lecteurs.",
+        "p2": "Une diffusion abusive de copies ill\u00e9gales.",
+        "p3": "Une offre promotionnelle provisoire.",
+        "p4": "Une perte croissante du nombre d\u2019abonn\u00e9s."
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 37,
+    "title": "",
+    "proposition": {
+        "p1": "C\u2019est un accessoire d\u2019\u00e9l\u00e9gance masculine.",
+        "p2": "C\u2019est un signe de reconnaissance entre pairs.",
+        "p3": "C\u2019est une coutume en r\u00e9union.",
+        "p4": "C\u2019est une marque de courtoisie."
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+},{
+    "id": 38,
+    "title": "",
+    "proposition": {
+        "p1": "Il reconna\u00eet ses aspects pratiques.",
+        "p2": "Il remet en cause ses bienfaits.",
+        "p3": "Il s\u2019inqui\u00e8te de son usage abusif.",
+        "p4": "Il s\u2019\u00e9merveille de sa technologie."
+    },
+    "point": "33",
+    "niveau": "C2",
+    "reponse": ""
+}]
